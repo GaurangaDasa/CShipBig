@@ -88,12 +88,11 @@
 			<version>3.1.0</version>
 			<configuration>
 				<sourceEncoding>UTF8</sourceEncoding>
-					 <repoToken>Zn0G25AA90STtUp1ZBhLAeXy7D7LZBK3T</repoToken>
+					 <repoToken>z8DTQURjySt4Sgd5K7rj5fiPJYYnhi3IQ</repoToken>
 			</configuration>
 		</plugin>
 
-		
-		
+				
 		
     </plugins>
   </build>
